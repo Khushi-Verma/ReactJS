@@ -1,4 +1,4 @@
-## For demo visit here- https://khushi-verma.github.io/reactJS/
+## For demo visit here-https://khushi-verma.github.io/reactJS/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
